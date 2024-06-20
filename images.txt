@@ -1,3 +1,4 @@
 #支持私库
 xhofe/alist:latest
 len996/115bot:latest
+tinymediamanager/tinymediamanager:latest
