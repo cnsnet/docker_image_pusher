@@ -3,3 +3,4 @@ xhofe/alist:latest
 len996/115bot:latest
 tinymediamanager/tinymediamanager:latest
 6053537/portainer-ce
+jxxghp/moviepilot:latest
